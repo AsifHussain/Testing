@@ -22,6 +22,10 @@
     float b = 12.0;
 }
 
+-(void)test {
+
+
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
