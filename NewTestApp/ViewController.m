@@ -21,6 +21,10 @@
     int a = 12;
     float b = 12.0;
 }
+-(void)testA {
+
+
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
